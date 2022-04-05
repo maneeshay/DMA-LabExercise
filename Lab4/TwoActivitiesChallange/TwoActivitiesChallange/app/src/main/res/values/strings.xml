@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TwoActivitiesChallange</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+
+    <string name="displayText_one">Marie Curie, née Maria Sklodowska, was born in Warsaw on November 7, 1867, the daughter of a
+        secondary-school teacher. She received a general education in local schools and some scientific training from her father.
+        She became involved in a students’ revolutionary organization and found it prudent to leave Warsaw, then in the part of Poland
+        dominated by Russia, for Cracow, which at that time was under Austrian rule. In 1891, she went to Paris to continue her studies
+        at the Sorbonne where she obtained Licenciateships in Physics and the Mathematical Sciences. She met Pierre Curie, Professor in the
+        School of Physics in 1894 and in the following year they were married. She succeeded her husband as Head of the Physics Laboratory at
+        the Sorbonne, gained her Doctor of Science degree in 1903, and following the tragic death of Pierre Curie in 1906, she took his place
+        Professor of General Physics in the Faculty of Sciences, the first time a woman had held this position. She was also appointed Director of
+        the Curie Laboratory in the Radium Institute of the University of Paris, founded in 1914.</string>
+
+    <string name="displayText_two">Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. Six weeks later the family moved to Munich,
+        where he later on began his schooling at the Luitpold Gymnasium. Later, they moved to Italy and Albert continued his education at Aarau,
+        Switzerland and in 1896 he entered the Swiss Federal Polytechnic School in Zurich to be trained as a teacher in physics and mathematics.
+        In 1901, the year he gained his diploma, he acquired Swiss citizenship and, as he was unable to find a teaching post, he accepted a position as
+        technical assistant in the Swiss Patent Office. In 1905 he obtained his doctor’s degree.</string>
+
+    <string name="displayText_three">Charles Darwin, in full Charles Robert Darwin, (born February 12, 1809, Shrewsbury, Shropshire, England—died April 19,
+        1882, Downe, Kent), English naturalist whose scientific theory of evolution by natural selection became the foundation of modern evolutionary
+        studies. An affable country gentleman, Darwin at first shocked religious Victorian society by suggesting that animals and humans shared a common
+        ancestry. However, his nonreligious biology appealed to the rising class of professional scientists, and by the time of his death evolutionary
+        imagery had spread through all of science, literature, and politics. Darwin, himself an agnostic, was accorded the ultimate British accolade of
+        burial in Westminster Abbey, London.
+
+        Darwin formulated his bold theory in private in 1837–39, after returning from a voyage around the world aboard HMS Beagle, but it was not until
+        two decades later that he finally gave it full public expression in On the Origin of Species (1859), a book that has deeply influenced modern
+        Western society and thought.</string>
+</resources>

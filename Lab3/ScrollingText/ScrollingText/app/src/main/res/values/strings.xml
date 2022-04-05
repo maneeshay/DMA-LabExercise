@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">The Great Gatsby</string>
+    <string name="article_subtitle">Chapter 1</string>
+    <string name="article_text">
+        <b>In the summer of 1922,</b> Nick writes, he had just arrived in New York, where he moved to work in the bond business, and rented a house on
+        a part of Long Island called West Egg. Unlike the conservative, aristocratic East Egg, West Egg is home to the “new rich,” those who,
+        having made their fortunes recently, have neither the social connections nor the refinement to move among the East Egg set. West Egg is
+        characterized by lavish displays of wealth and garish poor taste. Nick’s comparatively modest West Egg house is next door to Gatsby’s
+        mansion, a sprawling Gothic monstrosity.\n\n
+        Nick is unlike his West Egg neighbors;<web><b><i> www.google.com </i></b></web> whereas they lack social connections and aristocratic pedigrees,
+        Nick graduated from Yale and has many connections on East Egg. One night, he drives out to East Egg to have dinner with his cousin Daisy and her husband,
+        Tom Buchanan,
+        a former member of Nick’s social club at Yale. Tom, a powerful figure dressed in riding clothes, greets Nick on the porch. Inside, Daisy
+        lounges on a couch with her friend Jordan Baker, a competitive golfer who yawns as though bored by her surroundings.\n\n
+        Tom tries to interest the others in a book called The Rise of the Colored Empires by a man named Goddard. The book espouses racist,
+        white-supremacist attitudes that Tom seems to find convincing. Daisy teases Tom about the book but is interrupted when Tom leaves the
+        room to take a phone call. Daisy follows him hurriedly, and Jordan tells Nick that the call is from Tom’s lover in New York.\n\n
+        Nick Carraway’s perceptions and attitudes regarding the events and characters of the novel are central to The Great Gatsby. Writing the
+        novel is Nick’s way of grappling with the meaning of a story in which he played a part. The first pages of Chapter 1 establish certain
+        contradictions in Nick’s point of view. Although he describes himself as tolerant and nonjudgmental, he also views himself as morally
+        privileged, having a better sense of “decencies” than most other people. While Nick has a strong negative reaction to his experiences in
+        New York and eventually returns to the Midwest in search of a less morally ambiguous environment, even during his initial phase of
+        disgust, Gatsby stands out for him as an exception. Nick admires Gatsby highly, despite the fact that Gatsby represents everything Nick
+        scorns about New York. Gatsby clearly poses a challenge to Nick’s customary ways of thinking about the world, and Nick’s struggle to
+        come to terms with that challenge inflects everything in the novel.
+    </string>
+    <string name="add_comment" >Add Comment</string>
+
+</resources>

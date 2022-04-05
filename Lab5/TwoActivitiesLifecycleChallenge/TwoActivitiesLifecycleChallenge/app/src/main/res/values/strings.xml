@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Items</string>
+    <string name="add_item">Add Item</string>
+    <string name="Cake">Cake</string>
+    <string name="Mutton">Mutton</string>
+    <string name="Snickers">Snickers</string>
+    <string name="banana">Banana</string>
+    <string name="Curd">Curd</string>
+    <string name="Chicken">Chicken</string>
+</resources>
